@@ -10,6 +10,11 @@ Implement the below code to toggle the action buttons for edit/delete based on t
 
 <img width="552" height="389" alt="image" src="https://github.com/user-attachments/assets/bac13b7e-d8e2-43eb-8eb2-508e802391d9" />
 
-<br/>
-*For employees with grade L1 system restrict the record to be update / delete*
+<br/><br/>
+*For employees with grade L1 system restrict the record to be Edit / Delete*
+<img width="935" height="461" alt="image" src="https://github.com/user-attachments/assets/81a84083-0db0-4761-a3ee-671d546c1c94" />
+
+<Br/><br/>
+*Select employee with L1 grade, it will allow Edit/Delete action*
+
 
